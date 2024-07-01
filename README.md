@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Badge](https://lmo0auasr4u4.runkit.sh)](https://git.io/gradientbadge)
 
 <!--
 **notDiru/notDiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
